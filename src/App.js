@@ -28,7 +28,7 @@ class App extends Component {
     const deployedNetwork = LotteryContract.networks[networkId];
     const lottery = new web3.eth.Contract(
       LotteryContract.abi,
-      deployedNetwork && deployedNetwork.address,
+      "0xcf90e70429c87531fd1691e0ce627c503bd18fed",
     );
 
     const manager = await lottery.methods.manager().call();
