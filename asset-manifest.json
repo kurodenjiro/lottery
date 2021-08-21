@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lottery/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/lottery/static/js/main.ceff97ad.chunk.js",
+    "main.js.map": "/lottery/static/js/main.ceff97ad.chunk.js.map",
+    "runtime-main.js": "/lottery/static/js/runtime-main.2ccda5d4.js",
+    "runtime-main.js.map": "/lottery/static/js/runtime-main.2ccda5d4.js.map",
+    "static/js/2.473376ce.chunk.js": "/lottery/static/js/2.473376ce.chunk.js",
+    "static/js/2.473376ce.chunk.js.map": "/lottery/static/js/2.473376ce.chunk.js.map",
+    "index.html": "/lottery/index.html",
+    "precache-manifest.baa026aa153c50500854e4522192a54d.js": "/lottery/precache-manifest.baa026aa153c50500854e4522192a54d.js",
+    "service-worker.js": "/lottery/service-worker.js",
+    "static/css/main.5e4e9510.chunk.css.map": "/lottery/static/css/main.5e4e9510.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ccda5d4.js",
+    "static/js/2.473376ce.chunk.js",
+    "static/css/main.5e4e9510.chunk.css",
+    "static/js/main.ceff97ad.chunk.js"
+  ]
+}
